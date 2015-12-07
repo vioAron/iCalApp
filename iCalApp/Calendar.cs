@@ -11,7 +11,8 @@ namespace iCalApp
         public string CreateEvent(DateTime when, string eventDescription)
         {
             iCalendar calendar = new iCalendar();
-            calendar.AddProperty(new CalendarProperty());
+
+            return string.Empty;
         }
     }
 }
