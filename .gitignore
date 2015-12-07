@@ -233,3 +233,8 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+*.ncrunchsolution
+*.ncrunchproject
+# NCrunch
+_NCrunch_*
